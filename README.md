@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jb! <br/><a href="https:// www.linkedin.com/in/john-benedict-santos-49344a240/">College Graduate</a></a></h1>
+<h1>Hi, I'm Jb! <br/><a href="https://www.linkedin.com/in/john-benedict-santos-49344a240/">College Graduate</a></a></h1>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
